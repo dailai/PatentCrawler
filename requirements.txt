@@ -42,6 +42,6 @@ service-identity==17.0.0
 six==1.11.0
 sklearn==0.0
 Twisted==17.9.0
-urllib3==1.22
+urllib3==1.24.2
 w3lib==1.19.0
 zope.interface==4.4.3
