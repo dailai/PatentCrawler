@@ -15,7 +15,7 @@ future==0.16.0
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
-Jinja2==2.10
+Jinja2==2.11.3
 jupyter-echarts-pypkg==0.0.11
 lml==0.0.2
 Logbook==1.2.1
